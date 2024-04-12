@@ -1,0 +1,1751 @@
+{
+    "seatLayout": {
+        "Count": 2,
+        "intMaxSeatId": 21,
+        "intMinSeatId": 2,
+        "objArea": [
+            {
+                "AreaDesc": "THEATER",
+                "AreaCode": "0001",
+                "AreaNum": "1",
+                "objRow": [
+                    {
+                        "GridRowId": 1,
+                        "PhyRowId": "A",
+                        "objSeat": [
+                            {
+                                "GridSeatNum": 1,
+                                "SeatStatus": "0",
+                                "seatNumber": 1,
+                                "seatRank": "SS"
+                            },
+                            {
+                                "GridSeatNum": 2,
+                                "SeatStatus": "0",
+                                "seatNumber": 2,
+                                "seatRank": "SS"
+                            },
+                            {
+                                "GridSeatNum": 3,
+                                "SeatStatus": "0",
+                                "seatNumber": 3,
+                                "seatRank": "SS"
+                            },
+                            {
+                                "GridSeatNum": 4,
+                                "SeatStatus": "0",
+                                "seatNumber": 4,
+                                "seatRank": "SS"
+                            },
+                            {
+                                "GridSeatNum": 5,
+                                "SeatStatus": "0",
+                                "seatNumber": 5,
+                                "seatRank": "SS"
+                            },
+                            {
+                                "GridSeatNum": 6,
+                                "SeatStatus": "0",
+                                "seatNumber": 6,
+                                "seatRank": "SS"
+                            },
+                            {
+                                "GridSeatNum": 7,
+                                "SeatStatus": "0",
+                                "seatNumber": 7,
+                                "seatRank": "SS"
+                            },
+                            {
+                                "GridSeatNum": 8,
+                                "SeatStatus": "0",
+                                "seatNumber": 8,
+                                "seatRank": "SS"
+                            },
+                            {
+                                "GridSeatNum": 9,
+                                "SeatStatus": "0",
+                                "seatNumber": 9,
+                                "seatRank": "SS"
+                            },
+                            {
+                                "GridSeatNum": 10,
+                                "SeatStatus": "0",
+                                "seatNumber": 10,
+                                "seatRank": "SS"
+                            },
+                            {
+                                "GridSeatNum": 13,
+                                "SeatStatus": "0",
+                                "seatNumber": 11,
+                                "seatRank": "SS"
+                            },
+                            {
+                                "GridSeatNum": 14,
+                                "SeatStatus": "0",
+                                "seatNumber": 12,
+                                "seatRank": "SS"
+                            },
+                            {
+                                "GridSeatNum": 15,
+                                "SeatStatus": "0",
+                                "seatNumber": 13,
+                                "seatRank": "SS"
+                            },
+                            {
+                                "GridSeatNum": 16,
+                                "SeatStatus": "0",
+                                "seatNumber": 14,
+                                "seatRank": "SS"
+                            },
+                            {
+                                "GridSeatNum": 17,
+                                "SeatStatus": "0",
+                                "seatNumber": 15,
+                                "seatRank": "SS"
+                            },
+                            {
+                                "GridSeatNum": 18,
+                                "SeatStatus": "0",
+                                "seatNumber": 16,
+                                "seatRank": "SS"
+                            },
+                            {
+                                "GridSeatNum": 19,
+                                "SeatStatus": "0",
+                                "seatNumber": 17,
+                                "seatRank": "SS"
+                            },
+                            {
+                                "GridSeatNum": 20,
+                                "SeatStatus": "0",
+                                "seatNumber": 18,
+                                "seatRank": "SS"
+                            },
+                            {
+                                "GridSeatNum": 21,
+                                "SeatStatus": "0",
+                                "seatNumber": 19,
+                                "seatRank": "SS"
+                            },
+                            {
+                                "GridSeatNum": 22,
+                                "SeatStatus": "0",
+                                "seatNumber": 20,
+                                "seatRank": "SS"
+                            }
+                        ]
+                    },
+                    {
+                        "GridRowId": 2,
+                        "PhyRowId": "B",
+                        "objSeat": [
+                            {
+                                "GridSeatNum": 1,
+                                "SeatStatus": "0",
+                                "seatNumber": 1,
+                                "seatRank": "SS"
+                            },
+                            {
+                                "GridSeatNum": 2,
+                                "SeatStatus": "0",
+                                "seatNumber": 2,
+                                "seatRank": "SS"
+                            },
+                            {
+                                "GridSeatNum": 3,
+                                "SeatStatus": "0",
+                                "seatNumber": 3,
+                                "seatRank": "SS"
+                            },
+                            {
+                                "GridSeatNum": 4,
+                                "SeatStatus": "0",
+                                "seatNumber": 4,
+                                "seatRank": "SS"
+                            },
+                            {
+                                "GridSeatNum": 5,
+                                "SeatStatus": "0",
+                                "seatNumber": 5,
+                                "seatRank": "SS"
+                            },
+                            {
+                                "GridSeatNum": 6,
+                                "SeatStatus": "0",
+                                "seatNumber": 6,
+                                "seatRank": "SS"
+                            },
+                            {
+                                "GridSeatNum": 7,
+                                "SeatStatus": "0",
+                                "seatNumber": 7,
+                                "seatRank": "SS"
+                            },
+                            {
+                                "GridSeatNum": 8,
+                                "SeatStatus": "0",
+                                "seatNumber": 8,
+                                "seatRank": "SS"
+                            },
+                            {
+                                "GridSeatNum": 9,
+                                "SeatStatus": "0",
+                                "seatNumber": 9,
+                                "seatRank": "SS"
+                            },
+                            {
+                                "GridSeatNum": 10,
+                                "SeatStatus": "0",
+                                "seatNumber": 10,
+                                "seatRank": "SS"
+                            },
+                            {
+                                "GridSeatNum": 13,
+                                "SeatStatus": "0",
+                                "seatNumber": 11,
+                                "seatRank": "SS"
+                            },
+                            {
+                                "GridSeatNum": 14,
+                                "SeatStatus": "0",
+                                "seatNumber": 12,
+                                "seatRank": "SS"
+                            },
+                            {
+                                "GridSeatNum": 15,
+                                "SeatStatus": "0",
+                                "seatNumber": 13,
+                                "seatRank": "SS"
+                            },
+                            {
+                                "GridSeatNum": 16,
+                                "SeatStatus": "0",
+                                "seatNumber": 14,
+                                "seatRank": "SS"
+                            },
+                            {
+                                "GridSeatNum": 17,
+                                "SeatStatus": "0",
+                                "seatNumber": 15,
+                                "seatRank": "SS"
+                            },
+                            {
+                                "GridSeatNum": 18,
+                                "SeatStatus": "0",
+                                "seatNumber": 16,
+                                "seatRank": "SS"
+                            },
+                            {
+                                "GridSeatNum": 19,
+                                "SeatStatus": "0",
+                                "seatNumber": 17,
+                                "seatRank": "SS"
+                            },
+                            {
+                                "GridSeatNum": 20,
+                                "SeatStatus": "0",
+                                "seatNumber": 18,
+                                "seatRank": "SS"
+                            },
+                            {
+                                "GridSeatNum": 21,
+                                "SeatStatus": "0",
+                                "seatNumber": 19,
+                                "seatRank": "SS"
+                            },
+                            {
+                                "GridSeatNum": 22,
+                                "SeatStatus": "0",
+                                "seatNumber": 20,
+                                "seatRank": "SS"
+                            }
+                        ]
+                    },
+                    {
+                        "GridRowId": 3,
+                        "PhyRowId": "C",
+                        "objSeat": [
+                            {
+                                "GridSeatNum": 1,
+                                "SeatStatus": "0",
+                                "seatNumber": 1,
+                                "seatRank": "S"
+                            },
+                            {
+                                "GridSeatNum": 2,
+                                "SeatStatus": "0",
+                                "seatNumber": 2,
+                                "seatRank": "S"
+                            },
+                            {
+                                "GridSeatNum": 3,
+                                "SeatStatus": "0",
+                                "seatNumber": 3,
+                                "seatRank": "S"
+                            },
+                            {
+                                "GridSeatNum": 4,
+                                "SeatStatus": "0",
+                                "seatNumber": 4,
+                                "seatRank": "S"
+                            },
+                            {
+                                "GridSeatNum": 5,
+                                "SeatStatus": "0",
+                                "seatNumber": 5,
+                                "seatRank": "S"
+                            },
+                            {
+                                "GridSeatNum": 6,
+                                "SeatStatus": "0",
+                                "seatNumber": 6,
+                                "seatRank": "S"
+                            },
+                            {
+                                "GridSeatNum": 7,
+                                "SeatStatus": "0",
+                                "seatNumber": 7,
+                                "seatRank": "S"
+                            },
+                            {
+                                "GridSeatNum": 8,
+                                "SeatStatus": "0",
+                                "seatNumber": 8,
+                                "seatRank": "S"
+                            },
+                            {
+                                "GridSeatNum": 9,
+                                "SeatStatus": "0",
+                                "seatNumber": 9,
+                                "seatRank": "S"
+                            },
+                            {
+                                "GridSeatNum": 10,
+                                "SeatStatus": "0",
+                                "seatNumber": 10,
+                                "seatRank": "S"
+                            },
+                            {
+                                "GridSeatNum": 13,
+                                "SeatStatus": "0",
+                                "seatNumber": 11,
+                                "seatRank": "S"
+                            },
+                            {
+                                "GridSeatNum": 14,
+                                "SeatStatus": "0",
+                                "seatNumber": 12,
+                                "seatRank": "S"
+                            },
+                            {
+                                "GridSeatNum": 15,
+                                "SeatStatus": "0",
+                                "seatNumber": 13,
+                                "seatRank": "S"
+                            },
+                            {
+                                "GridSeatNum": 16,
+                                "SeatStatus": "0",
+                                "seatNumber": 14,
+                                "seatRank": "S"
+                            },
+                            {
+                                "GridSeatNum": 17,
+                                "SeatStatus": "0",
+                                "seatNumber": 15,
+                                "seatRank": "S"
+                            },
+                            {
+                                "GridSeatNum": 18,
+                                "SeatStatus": "0",
+                                "seatNumber": 16,
+                                "seatRank": "S"
+                            },
+                            {
+                                "GridSeatNum": 19,
+                                "SeatStatus": "0",
+                                "seatNumber": 17,
+                                "seatRank": "S"
+                            },
+                            {
+                                "GridSeatNum": 20,
+                                "SeatStatus": "0",
+                                "seatNumber": 18,
+                                "seatRank": "S"
+                            },
+                            {
+                                "GridSeatNum": 21,
+                                "SeatStatus": "0",
+                                "seatNumber": 19,
+                                "seatRank": "S"
+                            },
+                            {
+                                "GridSeatNum": 22,
+                                "SeatStatus": "0",
+                                "seatNumber": 20,
+                                "seatRank": "S"
+                            }
+                        ]
+                    },
+                    {
+                        "GridRowId": 4,
+                        "PhyRowId": "D",
+                        "objSeat": [
+                            {
+                                "GridSeatNum": 1,
+                                "SeatStatus": "0",
+                                "seatNumber": 1,
+                                "seatRank": "S"
+                            },
+                            {
+                                "GridSeatNum": 2,
+                                "SeatStatus": "0",
+                                "seatNumber": 2,
+                                "seatRank": "S"
+                            },
+                            {
+                                "GridSeatNum": 3,
+                                "SeatStatus": "0",
+                                "seatNumber": 3,
+                                "seatRank": "S"
+                            },
+                            {
+                                "GridSeatNum": 4,
+                                "SeatStatus": "0",
+                                "seatNumber": 4,
+                                "seatRank": "S"
+                            },
+                            {
+                                "GridSeatNum": 5,
+                                "SeatStatus": "0",
+                                "seatNumber": 5,
+                                "seatRank": "S"
+                            },
+                            {
+                                "GridSeatNum": 6,
+                                "SeatStatus": "0",
+                                "seatNumber": 6,
+                                "seatRank": "S"
+                            },
+                            {
+                                "GridSeatNum": 7,
+                                "SeatStatus": "0",
+                                "seatNumber": 7,
+                                "seatRank": "S"
+                            },
+                            {
+                                "GridSeatNum": 8,
+                                "SeatStatus": "0",
+                                "seatNumber": 8,
+                                "seatRank": "S"
+                            },
+                            {
+                                "GridSeatNum": 9,
+                                "SeatStatus": "0",
+                                "seatNumber": 9,
+                                "seatRank": "S"
+                            },
+                            {
+                                "GridSeatNum": 10,
+                                "SeatStatus": "0",
+                                "seatNumber": 10,
+                                "seatRank": "S"
+                            },
+                            {
+                                "GridSeatNum": 13,
+                                "SeatStatus": "0",
+                                "seatNumber": 11,
+                                "seatRank": "S"
+                            },
+                            {
+                                "GridSeatNum": 14,
+                                "SeatStatus": "0",
+                                "seatNumber": 12,
+                                "seatRank": "S"
+                            },
+                            {
+                                "GridSeatNum": 15,
+                                "SeatStatus": "0",
+                                "seatNumber": 13,
+                                "seatRank": "S"
+                            },
+                            {
+                                "GridSeatNum": 16,
+                                "SeatStatus": "0",
+                                "seatNumber": 14,
+                                "seatRank": "S"
+                            },
+                            {
+                                "GridSeatNum": 17,
+                                "SeatStatus": "0",
+                                "seatNumber": 15,
+                                "seatRank": "S"
+                            },
+                            {
+                                "GridSeatNum": 18,
+                                "SeatStatus": "0",
+                                "seatNumber": 16,
+                                "seatRank": "S"
+                            },
+                            {
+                                "GridSeatNum": 19,
+                                "SeatStatus": "0",
+                                "seatNumber": 17,
+                                "seatRank": "S"
+                            },
+                            {
+                                "GridSeatNum": 20,
+                                "SeatStatus": "0",
+                                "seatNumber": 18,
+                                "seatRank": "S"
+                            },
+                            {
+                                "GridSeatNum": 21,
+                                "SeatStatus": "0",
+                                "seatNumber": 19,
+                                "seatRank": "S"
+                            },
+                            {
+                                "GridSeatNum": 22,
+                                "SeatStatus": "0",
+                                "seatNumber": 20,
+                                "seatRank": "S"
+                            }
+                        ]
+                    },
+                    {
+                        "GridRowId": 5,
+                        "PhyRowId": "E",
+                        "objSeat": [
+                            {
+                                "GridSeatNum": 1,
+                                "SeatStatus": "0",
+                                "seatNumber": 1,
+                                "seatRank": "S"
+                            },
+                            {
+                                "GridSeatNum": 2,
+                                "SeatStatus": "0",
+                                "seatNumber": 2,
+                                "seatRank": "S"
+                            },
+                            {
+                                "GridSeatNum": 3,
+                                "SeatStatus": "0",
+                                "seatNumber": 3,
+                                "seatRank": "S"
+                            },
+                            {
+                                "GridSeatNum": 4,
+                                "SeatStatus": "0",
+                                "seatNumber": 4,
+                                "seatRank": "S"
+                            },
+                            {
+                                "GridSeatNum": 5,
+                                "SeatStatus": "0",
+                                "seatNumber": 5,
+                                "seatRank": "S"
+                            },
+                            {
+                                "GridSeatNum": 6,
+                                "SeatStatus": "0",
+                                "seatNumber": 6,
+                                "seatRank": "S"
+                            },
+                            {
+                                "GridSeatNum": 7,
+                                "SeatStatus": "0",
+                                "seatNumber": 7,
+                                "seatRank": "S"
+                            },
+                            {
+                                "GridSeatNum": 8,
+                                "SeatStatus": "0",
+                                "seatNumber": 8,
+                                "seatRank": "S"
+                            },
+                            {
+                                "GridSeatNum": 9,
+                                "SeatStatus": "0",
+                                "seatNumber": 9,
+                                "seatRank": "S"
+                            },
+                            {
+                                "GridSeatNum": 10,
+                                "SeatStatus": "0",
+                                "seatNumber": 10,
+                                "seatRank": "S"
+                            },
+                            {
+                                "GridSeatNum": 13,
+                                "SeatStatus": "0",
+                                "seatNumber": 11,
+                                "seatRank": "S"
+                            },
+                            {
+                                "GridSeatNum": 14,
+                                "SeatStatus": "0",
+                                "seatNumber": 12,
+                                "seatRank": "S"
+                            },
+                            {
+                                "GridSeatNum": 15,
+                                "SeatStatus": "0",
+                                "seatNumber": 13,
+                                "seatRank": "S"
+                            },
+                            {
+                                "GridSeatNum": 16,
+                                "SeatStatus": "0",
+                                "seatNumber": 14,
+                                "seatRank": "S"
+                            },
+                            {
+                                "GridSeatNum": 17,
+                                "SeatStatus": "0",
+                                "seatNumber": 15,
+                                "seatRank": "S"
+                            },
+                            {
+                                "GridSeatNum": 18,
+                                "SeatStatus": "0",
+                                "seatNumber": 16,
+                                "seatRank": "S"
+                            },
+                            {
+                                "GridSeatNum": 19,
+                                "SeatStatus": "0",
+                                "seatNumber": 17,
+                                "seatRank": "S"
+                            },
+                            {
+                                "GridSeatNum": 20,
+                                "SeatStatus": "0",
+                                "seatNumber": 18,
+                                "seatRank": "S"
+                            },
+                            {
+                                "GridSeatNum": 21,
+                                "SeatStatus": "0",
+                                "seatNumber": 19,
+                                "seatRank": "S"
+                            },
+                            {
+                                "GridSeatNum": 22,
+                                "SeatStatus": "0",
+                                "seatNumber": 20,
+                                "seatRank": "S"
+                            }
+                        ]
+                    },
+                    {
+                        "GridRowId": 6,
+                        "PhyRowId": "F",
+                        "objSeat": [
+                            {
+                                "GridSeatNum": 1,
+                                "SeatStatus": "0",
+                                "seatNumber": 1,
+                                "seatRank": "A"
+                            },
+                            {
+                                "GridSeatNum": 2,
+                                "SeatStatus": "0",
+                                "seatNumber": 2,
+                                "seatRank": "A"
+                            },
+                            {
+                                "GridSeatNum": 3,
+                                "SeatStatus": "0",
+                                "seatNumber": 3,
+                                "seatRank": "A"
+                            },
+                            {
+                                "GridSeatNum": 4,
+                                "SeatStatus": "0",
+                                "seatNumber": 4,
+                                "seatRank": "A"
+                            },
+                            {
+                                "GridSeatNum": 5,
+                                "SeatStatus": "0",
+                                "seatNumber": 5,
+                                "seatRank": "A"
+                            },
+                            {
+                                "GridSeatNum": 6,
+                                "SeatStatus": "0",
+                                "seatNumber": 6,
+                                "seatRank": "A"
+                            },
+                            {
+                                "GridSeatNum": 7,
+                                "SeatStatus": "0",
+                                "seatNumber": 7,
+                                "seatRank": "A"
+                            },
+                            {
+                                "GridSeatNum": 8,
+                                "SeatStatus": "0",
+                                "seatNumber": 8,
+                                "seatRank": "A"
+                            },
+                            {
+                                "GridSeatNum": 9,
+                                "SeatStatus": "0",
+                                "seatNumber": 9,
+                                "seatRank": "A"
+                            },
+                            {
+                                "GridSeatNum": 10,
+                                "SeatStatus": "0",
+                                "seatNumber": 10,
+                                "seatRank": "A"
+                            },
+                            {
+                                "GridSeatNum": 13,
+                                "SeatStatus": "0",
+                                "seatNumber": 11,
+                                "seatRank": "A"
+                            },
+                            {
+                                "GridSeatNum": 14,
+                                "SeatStatus": "0",
+                                "seatNumber": 12,
+                                "seatRank": "A"
+                            },
+                            {
+                                "GridSeatNum": 15,
+                                "SeatStatus": "0",
+                                "seatNumber": 13,
+                                "seatRank": "A"
+                            },
+                            {
+                                "GridSeatNum": 16,
+                                "SeatStatus": "0",
+                                "seatNumber": 14,
+                                "seatRank": "A"
+                            },
+                            {
+                                "GridSeatNum": 17,
+                                "SeatStatus": "0",
+                                "seatNumber": 15,
+                                "seatRank": "A"
+                            },
+                            {
+                                "GridSeatNum": 18,
+                                "SeatStatus": "0",
+                                "seatNumber": 16,
+                                "seatRank": "A"
+                            },
+                            {
+                                "GridSeatNum": 19,
+                                "SeatStatus": "0",
+                                "seatNumber": 17,
+                                "seatRank": "A"
+                            },
+                            {
+                                "GridSeatNum": 20,
+                                "SeatStatus": "0",
+                                "seatNumber": 18,
+                                "seatRank": "A"
+                            },
+                            {
+                                "GridSeatNum": 21,
+                                "SeatStatus": "0",
+                                "seatNumber": 19,
+                                "seatRank": "A"
+                            },
+                            {
+                                "GridSeatNum": 22,
+                                "SeatStatus": "0",
+                                "seatNumber": 20,
+                                "seatRank": "A"
+                            }
+                        ]
+                    },
+                    {
+                        "GridRowId": 7,
+                        "PhyRowId": "G",
+                        "objSeat": [
+                            {
+                                "GridSeatNum": 1,
+                                "SeatStatus": "0",
+                                "seatNumber": 1,
+                                "seatRank": "A"
+                            },
+                            {
+                                "GridSeatNum": 2,
+                                "SeatStatus": "0",
+                                "seatNumber": 2,
+                                "seatRank": "A"
+                            },
+                            {
+                                "GridSeatNum": 3,
+                                "SeatStatus": "0",
+                                "seatNumber": 3,
+                                "seatRank": "A"
+                            },
+                            {
+                                "GridSeatNum": 4,
+                                "SeatStatus": "0",
+                                "seatNumber": 4,
+                                "seatRank": "A"
+                            },
+                            {
+                                "GridSeatNum": 5,
+                                "SeatStatus": "0",
+                                "seatNumber": 5,
+                                "seatRank": "A"
+                            },
+                            {
+                                "GridSeatNum": 6,
+                                "SeatStatus": "0",
+                                "seatNumber": 6,
+                                "seatRank": "A"
+                            },
+                            {
+                                "GridSeatNum": 7,
+                                "SeatStatus": "0",
+                                "seatNumber": 7,
+                                "seatRank": "A"
+                            },
+                            {
+                                "GridSeatNum": 8,
+                                "SeatStatus": "0",
+                                "seatNumber": 8,
+                                "seatRank": "A"
+                            },
+                            {
+                                "GridSeatNum": 9,
+                                "SeatStatus": "0",
+                                "seatNumber": 9,
+                                "seatRank": "A"
+                            },
+                            {
+                                "GridSeatNum": 10,
+                                "SeatStatus": "0",
+                                "seatNumber": 10,
+                                "seatRank": "A"
+                            },
+                            {
+                                "GridSeatNum": 13,
+                                "SeatStatus": "0",
+                                "seatNumber": 11,
+                                "seatRank": "A"
+                            },
+                            {
+                                "GridSeatNum": 14,
+                                "SeatStatus": "0",
+                                "seatNumber": 12,
+                                "seatRank": "A"
+                            },
+                            {
+                                "GridSeatNum": 15,
+                                "SeatStatus": "0",
+                                "seatNumber": 13,
+                                "seatRank": "A"
+                            },
+                            {
+                                "GridSeatNum": 16,
+                                "SeatStatus": "0",
+                                "seatNumber": 14,
+                                "seatRank": "A"
+                            },
+                            {
+                                "GridSeatNum": 17,
+                                "SeatStatus": "0",
+                                "seatNumber": 15,
+                                "seatRank": "A"
+                            },
+                            {
+                                "GridSeatNum": 18,
+                                "SeatStatus": "0",
+                                "seatNumber": 16,
+                                "seatRank": "A"
+                            },
+                            {
+                                "GridSeatNum": 19,
+                                "SeatStatus": "0",
+                                "seatNumber": 17,
+                                "seatRank": "A"
+                            },
+                            {
+                                "GridSeatNum": 20,
+                                "SeatStatus": "0",
+                                "seatNumber": 18,
+                                "seatRank": "A"
+                            },
+                            {
+                                "GridSeatNum": 21,
+                                "SeatStatus": "0",
+                                "seatNumber": 19,
+                                "seatRank": "A"
+                            },
+                            {
+                                "GridSeatNum": 22,
+                                "SeatStatus": "0",
+                                "seatNumber": 20,
+                                "seatRank": "A"
+                            }
+                        ]
+                    },
+                    {
+                        "GridRowId": 8,
+                        "PhyRowId": "H",
+                        "objSeat": [
+                            {
+                                "GridSeatNum": 1,
+                                "SeatStatus": "0",
+                                "seatNumber": 1,
+                                "seatRank": "A"
+                            },
+                            {
+                                "GridSeatNum": 2,
+                                "SeatStatus": "0",
+                                "seatNumber": 2,
+                                "seatRank": "A"
+                            },
+                            {
+                                "GridSeatNum": 3,
+                                "SeatStatus": "0",
+                                "seatNumber": 3,
+                                "seatRank": "A"
+                            },
+                            {
+                                "GridSeatNum": 4,
+                                "SeatStatus": "0",
+                                "seatNumber": 4,
+                                "seatRank": "A"
+                            },
+                            {
+                                "GridSeatNum": 5,
+                                "SeatStatus": "0",
+                                "seatNumber": 5,
+                                "seatRank": "A"
+                            },
+                            {
+                                "GridSeatNum": 6,
+                                "SeatStatus": "0",
+                                "seatNumber": 6,
+                                "seatRank": "A"
+                            },
+                            {
+                                "GridSeatNum": 7,
+                                "SeatStatus": "0",
+                                "seatNumber": 7,
+                                "seatRank": "A"
+                            },
+                            {
+                                "GridSeatNum": 8,
+                                "SeatStatus": "0",
+                                "seatNumber": 8,
+                                "seatRank": "A"
+                            },
+                            {
+                                "GridSeatNum": 9,
+                                "SeatStatus": "0",
+                                "seatNumber": 9,
+                                "seatRank": "A"
+                            },
+                            {
+                                "GridSeatNum": 10,
+                                "SeatStatus": "0",
+                                "seatNumber": 10,
+                                "seatRank": "A"
+                            },
+                            {
+                                "GridSeatNum": 13,
+                                "SeatStatus": "0",
+                                "seatNumber": 11,
+                                "seatRank": "A"
+                            },
+                            {
+                                "GridSeatNum": 14,
+                                "SeatStatus": "0",
+                                "seatNumber": 12,
+                                "seatRank": "A"
+                            },
+                            {
+                                "GridSeatNum": 15,
+                                "SeatStatus": "0",
+                                "seatNumber": 13,
+                                "seatRank": "A"
+                            },
+                            {
+                                "GridSeatNum": 16,
+                                "SeatStatus": "0",
+                                "seatNumber": 14,
+                                "seatRank": "A"
+                            },
+                            {
+                                "GridSeatNum": 17,
+                                "SeatStatus": "0",
+                                "seatNumber": 15,
+                                "seatRank": "A"
+                            },
+                            {
+                                "GridSeatNum": 18,
+                                "SeatStatus": "0",
+                                "seatNumber": 16,
+                                "seatRank": "A"
+                            },
+                            {
+                                "GridSeatNum": 19,
+                                "SeatStatus": "0",
+                                "seatNumber": 17,
+                                "seatRank": "A"
+                            },
+                            {
+                                "GridSeatNum": 20,
+                                "SeatStatus": "0",
+                                "seatNumber": 18,
+                                "seatRank": "A"
+                            },
+                            {
+                                "GridSeatNum": 21,
+                                "SeatStatus": "0",
+                                "seatNumber": 19,
+                                "seatRank": "A"
+                            },
+                            {
+                                "GridSeatNum": 22,
+                                "SeatStatus": "0",
+                                "seatNumber": 20,
+                                "seatRank": "A"
+                            }
+                        ]
+                    },
+                    {
+                        "GridRowId": 9,
+                        "PhyRowId": "I",
+                        "objSeat": [
+                            {
+                                "GridSeatNum": 1,
+                                "SeatStatus": "0",
+                                "seatNumber": 1,
+                                "seatRank": "A"
+                            },
+                            {
+                                "GridSeatNum": 2,
+                                "SeatStatus": "0",
+                                "seatNumber": 2,
+                                "seatRank": "A"
+                            },
+                            {
+                                "GridSeatNum": 3,
+                                "SeatStatus": "0",
+                                "seatNumber": 3,
+                                "seatRank": "A"
+                            },
+                            {
+                                "GridSeatNum": 4,
+                                "SeatStatus": "0",
+                                "seatNumber": 4,
+                                "seatRank": "A"
+                            },
+                            {
+                                "GridSeatNum": 5,
+                                "SeatStatus": "0",
+                                "seatNumber": 5,
+                                "seatRank": "A"
+                            },
+                            {
+                                "GridSeatNum": 6,
+                                "SeatStatus": "0",
+                                "seatNumber": 6,
+                                "seatRank": "A"
+                            },
+                            {
+                                "GridSeatNum": 7,
+                                "SeatStatus": "0",
+                                "seatNumber": 7,
+                                "seatRank": "A"
+                            },
+                            {
+                                "GridSeatNum": 8,
+                                "SeatStatus": "0",
+                                "seatNumber": 8,
+                                "seatRank": "A"
+                            },
+                            {
+                                "GridSeatNum": 9,
+                                "SeatStatus": "0",
+                                "seatNumber": 9,
+                                "seatRank": "A"
+                            },
+                            {
+                                "GridSeatNum": 10,
+                                "SeatStatus": "0",
+                                "seatNumber": 10,
+                                "seatRank": "A"
+                            },
+                            {
+                                "GridSeatNum": 13,
+                                "SeatStatus": "0",
+                                "seatNumber": 11,
+                                "seatRank": "A"
+                            },
+                            {
+                                "GridSeatNum": 14,
+                                "SeatStatus": "0",
+                                "seatNumber": 12,
+                                "seatRank": "A"
+                            },
+                            {
+                                "GridSeatNum": 15,
+                                "SeatStatus": "0",
+                                "seatNumber": 13,
+                                "seatRank": "A"
+                            },
+                            {
+                                "GridSeatNum": 16,
+                                "SeatStatus": "0",
+                                "seatNumber": 14,
+                                "seatRank": "A"
+                            },
+                            {
+                                "GridSeatNum": 17,
+                                "SeatStatus": "0",
+                                "seatNumber": 15,
+                                "seatRank": "A"
+                            },
+                            {
+                                "GridSeatNum": 18,
+                                "SeatStatus": "0",
+                                "seatNumber": 16,
+                                "seatRank": "A"
+                            },
+                            {
+                                "GridSeatNum": 19,
+                                "SeatStatus": "0",
+                                "seatNumber": 17,
+                                "seatRank": "A"
+                            },
+                            {
+                                "GridSeatNum": 20,
+                                "SeatStatus": "0",
+                                "seatNumber": 18,
+                                "seatRank": "A"
+                            },
+                            {
+                                "GridSeatNum": 21,
+                                "SeatStatus": "0",
+                                "seatNumber": 19,
+                                "seatRank": "A"
+                            },
+                            {
+                                "GridSeatNum": 22,
+                                "SeatStatus": "0",
+                                "seatNumber": 20,
+                                "seatRank": "A"
+                            }
+                        ]
+                    },
+                    {
+                        "GridRowId": 10,
+                        "PhyRowId": "J",
+                        "objSeat": [
+                            {
+                                "GridSeatNum": 1,
+                                "SeatStatus": "0",
+                                "seatNumber": 1,
+                                "seatRank": "B"
+                            },
+                            {
+                                "GridSeatNum": 2,
+                                "SeatStatus": "0",
+                                "seatNumber": 2,
+                                "seatRank": "B"
+                            },
+                            {
+                                "GridSeatNum": 3,
+                                "SeatStatus": "0",
+                                "seatNumber": 3,
+                                "seatRank": "B"
+                            },
+                            {
+                                "GridSeatNum": 4,
+                                "SeatStatus": "0",
+                                "seatNumber": 4,
+                                "seatRank": "B"
+                            },
+                            {
+                                "GridSeatNum": 5,
+                                "SeatStatus": "0",
+                                "seatNumber": 5,
+                                "seatRank": "B"
+                            },
+                            {
+                                "GridSeatNum": 6,
+                                "SeatStatus": "0",
+                                "seatNumber": 6,
+                                "seatRank": "B"
+                            },
+                            {
+                                "GridSeatNum": 7,
+                                "SeatStatus": "0",
+                                "seatNumber": 7,
+                                "seatRank": "B"
+                            },
+                            {
+                                "GridSeatNum": 8,
+                                "SeatStatus": "0",
+                                "seatNumber": 8,
+                                "seatRank": "B"
+                            },
+                            {
+                                "GridSeatNum": 9,
+                                "SeatStatus": "0",
+                                "seatNumber": 9,
+                                "seatRank": "B"
+                            },
+                            {
+                                "GridSeatNum": 10,
+                                "SeatStatus": "0",
+                                "seatNumber": 10,
+                                "seatRank": "B"
+                            },
+                            {
+                                "GridSeatNum": 13,
+                                "SeatStatus": "0",
+                                "seatNumber": 11,
+                                "seatRank": "B"
+                            },
+                            {
+                                "GridSeatNum": 14,
+                                "SeatStatus": "0",
+                                "seatNumber": 12,
+                                "seatRank": "B"
+                            },
+                            {
+                                "GridSeatNum": 15,
+                                "SeatStatus": "0",
+                                "seatNumber": 13,
+                                "seatRank": "B"
+                            },
+                            {
+                                "GridSeatNum": 16,
+                                "SeatStatus": "0",
+                                "seatNumber": 14,
+                                "seatRank": "B"
+                            },
+                            {
+                                "GridSeatNum": 17,
+                                "SeatStatus": "0",
+                                "seatNumber": 15,
+                                "seatRank": "B"
+                            },
+                            {
+                                "GridSeatNum": 18,
+                                "SeatStatus": "0",
+                                "seatNumber": 16,
+                                "seatRank": "B"
+                            },
+                            {
+                                "GridSeatNum": 19,
+                                "SeatStatus": "0",
+                                "seatNumber": 17,
+                                "seatRank": "B"
+                            },
+                            {
+                                "GridSeatNum": 20,
+                                "SeatStatus": "0",
+                                "seatNumber": 18,
+                                "seatRank": "B"
+                            },
+                            {
+                                "GridSeatNum": 21,
+                                "SeatStatus": "0",
+                                "seatNumber": 19,
+                                "seatRank": "B"
+                            },
+                            {
+                                "GridSeatNum": 22,
+                                "SeatStatus": "0",
+                                "seatNumber": 20,
+                                "seatRank": "B"
+                            }
+                        ]
+                    },
+                    {
+                        "GridRowId": 11,
+                        "PhyRowId": "K",
+                        "objSeat": [
+                            {
+                                "GridSeatNum": 1,
+                                "SeatStatus": "0",
+                                "seatNumber": 1,
+                                "seatRank": "B"
+                            },
+                            {
+                                "GridSeatNum": 2,
+                                "SeatStatus": "0",
+                                "seatNumber": 2,
+                                "seatRank": "B"
+                            },
+                            {
+                                "GridSeatNum": 3,
+                                "SeatStatus": "0",
+                                "seatNumber": 3,
+                                "seatRank": "B"
+                            },
+                            {
+                                "GridSeatNum": 4,
+                                "SeatStatus": "0",
+                                "seatNumber": 4,
+                                "seatRank": "B"
+                            },
+                            {
+                                "GridSeatNum": 5,
+                                "SeatStatus": "0",
+                                "seatNumber": 5,
+                                "seatRank": "B"
+                            },
+                            {
+                                "GridSeatNum": 6,
+                                "SeatStatus": "0",
+                                "seatNumber": 6,
+                                "seatRank": "B"
+                            },
+                            {
+                                "GridSeatNum": 7,
+                                "SeatStatus": "0",
+                                "seatNumber": 7,
+                                "seatRank": "B"
+                            },
+                            {
+                                "GridSeatNum": 8,
+                                "SeatStatus": "0",
+                                "seatNumber": 8,
+                                "seatRank": "B"
+                            },
+                            {
+                                "GridSeatNum": 9,
+                                "SeatStatus": "0",
+                                "seatNumber": 9,
+                                "seatRank": "B"
+                            },
+                            {
+                                "GridSeatNum": 10,
+                                "SeatStatus": "0",
+                                "seatNumber": 10,
+                                "seatRank": "B"
+                            },
+                            {
+                                "GridSeatNum": 13,
+                                "SeatStatus": "0",
+                                "seatNumber": 11,
+                                "seatRank": "B"
+                            },
+                            {
+                                "GridSeatNum": 14,
+                                "SeatStatus": "0",
+                                "seatNumber": 12,
+                                "seatRank": "B"
+                            },
+                            {
+                                "GridSeatNum": 15,
+                                "SeatStatus": "0",
+                                "seatNumber": 13,
+                                "seatRank": "B"
+                            },
+                            {
+                                "GridSeatNum": 16,
+                                "SeatStatus": "0",
+                                "seatNumber": 14,
+                                "seatRank": "B"
+                            },
+                            {
+                                "GridSeatNum": 17,
+                                "SeatStatus": "0",
+                                "seatNumber": 15,
+                                "seatRank": "B"
+                            },
+                            {
+                                "GridSeatNum": 18,
+                                "SeatStatus": "0",
+                                "seatNumber": 16,
+                                "seatRank": "B"
+                            },
+                            {
+                                "GridSeatNum": 19,
+                                "SeatStatus": "0",
+                                "seatNumber": 17,
+                                "seatRank": "B"
+                            },
+                            {
+                                "GridSeatNum": 20,
+                                "SeatStatus": "0",
+                                "seatNumber": 18,
+                                "seatRank": "B"
+                            },
+                            {
+                                "GridSeatNum": 21,
+                                "SeatStatus": "0",
+                                "seatNumber": 19,
+                                "seatRank": "B"
+                            },
+                            {
+                                "GridSeatNum": 22,
+                                "SeatStatus": "0",
+                                "seatNumber": 20,
+                                "seatRank": "B"
+                            }
+                        ]
+                    },
+                    {
+                        "GridRowId": 12,
+                        "PhyRowId": "L",
+                        "objSeat": [
+                            {
+                                "GridSeatNum": 1,
+                                "SeatStatus": "0",
+                                "seatNumber": 1,
+                                "seatRank": "B"
+                            },
+                            {
+                                "GridSeatNum": 2,
+                                "SeatStatus": "0",
+                                "seatNumber": 2,
+                                "seatRank": "B"
+                            },
+                            {
+                                "GridSeatNum": 3,
+                                "SeatStatus": "0",
+                                "seatNumber": 3,
+                                "seatRank": "B"
+                            },
+                            {
+                                "GridSeatNum": 4,
+                                "SeatStatus": "0",
+                                "seatNumber": 4,
+                                "seatRank": "B"
+                            },
+                            {
+                                "GridSeatNum": 5,
+                                "SeatStatus": "0",
+                                "seatNumber": 5,
+                                "seatRank": "B"
+                            },
+                            {
+                                "GridSeatNum": 6,
+                                "SeatStatus": "0",
+                                "seatNumber": 6,
+                                "seatRank": "B"
+                            },
+                            {
+                                "GridSeatNum": 7,
+                                "SeatStatus": "0",
+                                "seatNumber": 7,
+                                "seatRank": "B"
+                            },
+                            {
+                                "GridSeatNum": 8,
+                                "SeatStatus": "0",
+                                "seatNumber": 8,
+                                "seatRank": "B"
+                            },
+                            {
+                                "GridSeatNum": 9,
+                                "SeatStatus": "0",
+                                "seatNumber": 9,
+                                "seatRank": "B"
+                            },
+                            {
+                                "GridSeatNum": 10,
+                                "SeatStatus": "0",
+                                "seatNumber": 10,
+                                "seatRank": "B"
+                            },
+                            {
+                                "GridSeatNum": 13,
+                                "SeatStatus": "0",
+                                "seatNumber": 11,
+                                "seatRank": "B"
+                            },
+                            {
+                                "GridSeatNum": 14,
+                                "SeatStatus": "0",
+                                "seatNumber": 12,
+                                "seatRank": "B"
+                            },
+                            {
+                                "GridSeatNum": 15,
+                                "SeatStatus": "0",
+                                "seatNumber": 13,
+                                "seatRank": "B"
+                            },
+                            {
+                                "GridSeatNum": 16,
+                                "SeatStatus": "0",
+                                "seatNumber": 14,
+                                "seatRank": "B"
+                            },
+                            {
+                                "GridSeatNum": 17,
+                                "SeatStatus": "0",
+                                "seatNumber": 15,
+                                "seatRank": "B"
+                            },
+                            {
+                                "GridSeatNum": 18,
+                                "SeatStatus": "0",
+                                "seatNumber": 16,
+                                "seatRank": "B"
+                            },
+                            {
+                                "GridSeatNum": 19,
+                                "SeatStatus": "0",
+                                "seatNumber": 17,
+                                "seatRank": "B"
+                            },
+                            {
+                                "GridSeatNum": 20,
+                                "SeatStatus": "0",
+                                "seatNumber": 18,
+                                "seatRank": "B"
+                            },
+                            {
+                                "GridSeatNum": 21,
+                                "SeatStatus": "0",
+                                "seatNumber": 19,
+                                "seatRank": "B"
+                            },
+                            {
+                                "GridSeatNum": 22,
+                                "SeatStatus": "0",
+                                "seatNumber": 20,
+                                "seatRank": "B"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "AreaDesc": "SPECIAL",
+                "AreaCode": "0002",
+                "AreaNum": "2",
+                "objRow": [
+                    {
+                        "GridRowId": 1,
+                        "PhyRowId": "M",
+                        "objSeat": [
+                            {
+                                "GridSeatNum": 3,
+                                "SeatStatus": "0",
+                                "seatNumber": 1,
+                                "seatRank": "C"
+                            },
+                            {
+                                "GridSeatNum": 4,
+                                "SeatStatus": "0",
+                                "seatNumber": 2,
+                                "seatRank": "C"
+                            },
+                            {
+                                "GridSeatNum": 5,
+                                "SeatStatus": "0",
+                                "seatNumber": 3,
+                                "seatRank": "C"
+                            },
+                            {
+                                "GridSeatNum": 6,
+                                "SeatStatus": "0",
+                                "seatNumber": 4,
+                                "seatRank": "C"
+                            },
+                            {
+                                "GridSeatNum": 7,
+                                "SeatStatus": "0",
+                                "seatNumber": 5,
+                                "seatRank": "C"
+                            },
+                            {
+                                "GridSeatNum": 8,
+                                "SeatStatus": "0",
+                                "seatNumber": 6,
+                                "seatRank": "C"
+                            },
+                            {
+                                "GridSeatNum": 9,
+                                "SeatStatus": "0",
+                                "seatNumber": 7,
+                                "seatRank": "C"
+                            },
+                            {
+                                "GridSeatNum": 10,
+                                "SeatStatus": "0",
+                                "seatNumber": 8,
+                                "seatRank": "C"
+                            },
+                            {
+                                "GridSeatNum": 11,
+                                "SeatStatus": "0",
+                                "seatNumber": 9,
+                                "seatRank": "C"
+                            },
+                            {
+                                "GridSeatNum": 12,
+                                "SeatStatus": "0",
+                                "seatNumber": 10,
+                                "seatRank": "C"
+                            },
+                            {
+                                "GridSeatNum": 13,
+                                "SeatStatus": "0",
+                                "seatNumber": 11,
+                                "seatRank": "C"
+                            },
+                            {
+                                "GridSeatNum": 14,
+                                "SeatStatus": "0",
+                                "seatNumber": 12,
+                                "seatRank": "C"
+                            },
+                            {
+                                "GridSeatNum": 15,
+                                "SeatStatus": "0",
+                                "seatNumber": 13,
+                                "seatRank": "C"
+                            },
+                            {
+                                "GridSeatNum": 16,
+                                "SeatStatus": "0",
+                                "seatNumber": 14,
+                                "seatRank": "C"
+                            },
+                            {
+                                "GridSeatNum": 17,
+                                "SeatStatus": "0",
+                                "seatNumber": 15,
+                                "seatRank": "C"
+                            },
+                            {
+                                "GridSeatNum": 18,
+                                "SeatStatus": "0",
+                                "seatNumber": 16,
+                                "seatRank": "C"
+                            },
+                            {
+                                "GridSeatNum": 19,
+                                "SeatStatus": "0",
+                                "seatNumber": 17,
+                                "seatRank": "C"
+                            },
+                            {
+                                "GridSeatNum": 20,
+                                "SeatStatus": "0",
+                                "seatNumber": 18,
+                                "seatRank": "C"
+                            }
+                        ]
+                    },
+                    {
+                        "GridRowId": 2,
+                        "PhyRowId": "N",
+                        "objSeat": [
+                            {
+                                "GridSeatNum": 4,
+                                "SeatStatus": "0",
+                                "seatNumber": 1,
+                                "seatRank": "C"
+                            },
+                            {
+                                "GridSeatNum": 5,
+                                "SeatStatus": "0",
+                                "seatNumber": 2,
+                                "seatRank": "C"
+                            },
+                            {
+                                "GridSeatNum": 6,
+                                "SeatStatus": "0",
+                                "seatNumber": 3,
+                                "seatRank": "C"
+                            },
+                            {
+                                "GridSeatNum": 7,
+                                "SeatStatus": "0",
+                                "seatNumber": 4,
+                                "seatRank": "C"
+                            },
+                            {
+                                "GridSeatNum": 8,
+                                "SeatStatus": "0",
+                                "seatNumber": 5,
+                                "seatRank": "C"
+                            },
+                            {
+                                "GridSeatNum": 9,
+                                "SeatStatus": "0",
+                                "seatNumber": 6,
+                                "seatRank": "C"
+                            },
+                            {
+                                "GridSeatNum": 10,
+                                "SeatStatus": "0",
+                                "seatNumber": 7,
+                                "seatRank": "C"
+                            },
+                            {
+                                "GridSeatNum": 11,
+                                "SeatStatus": "0",
+                                "seatNumber": 8,
+                                "seatRank": "C"
+                            },
+                            {
+                                "GridSeatNum": 12,
+                                "SeatStatus": "0",
+                                "seatNumber": 9,
+                                "seatRank": "C"
+                            },
+                            {
+                                "GridSeatNum": 13,
+                                "SeatStatus": "0",
+                                "seatNumber": 10,
+                                "seatRank": "C"
+                            },
+                            {
+                                "GridSeatNum": 14,
+                                "SeatStatus": "0",
+                                "seatNumber": 11,
+                                "seatRank": "C"
+                            },
+                            {
+                                "GridSeatNum": 15,
+                                "SeatStatus": "0",
+                                "seatNumber": 12,
+                                "seatRank": "C"
+                            },
+                            {
+                                "GridSeatNum": 16,
+                                "SeatStatus": "0",
+                                "seatNumber": 13,
+                                "seatRank": "C"
+                            },
+                            {
+                                "GridSeatNum": 17,
+                                "SeatStatus": "0",
+                                "seatNumber": 14,
+                                "seatRank": "C"
+                            },
+                            {
+                                "GridSeatNum": 18,
+                                "SeatStatus": "0",
+                                "seatNumber": 15,
+                                "seatRank": "C"
+                            },
+                            {
+                                "GridSeatNum": 19,
+                                "SeatStatus": "0",
+                                "seatNumber": 16,
+                                "seatRank": "C"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}
